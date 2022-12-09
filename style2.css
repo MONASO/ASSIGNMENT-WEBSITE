@@ -1,0 +1,139 @@
+#index{
+    color:white;
+    text-align: center;
+    background-repeat: no-repeat ;
+    background-size:cover;
+    font-size:x-large;
+    background-image: url("https://i0.wp.com/www.monstersandcritics.com/wp-content/uploads/2019/07/CNN-_The-Movies.jpg?w=1200&ssl=1") ;
+    background-repeat: no-repeat ;
+    background-size:cover;
+}
+   
+#mainpage{
+   background-image: url("https://i.pinimg.com/564x/b6/c5/66/b6c566db98622cf4a83c331b7c950b6d.jpg");
+   background-color: rgb(180, 127, 127);
+   background-repeat: no-repeat ;
+   background-size:cover;
+   text-align: center;
+   color: rgb(255, 255, 255);
+   font-size: xx-large;
+    }
+
+
+ul.list{
+    list-style-position: inside;
+    text-align: center;
+}
+
+#before{
+    background-image: url("https://i.pinimg.com/564x/22/29/6e/22296efdafd7e1d4765ba98a662113bf.jpg" );
+    background-repeat: no-repeat ;
+   background-size:cover;
+text-align: right;
+font-family:'Times New Roman', Times, serif;
+background-position: 12% 34%;
+color: rgb(0, 0, 0);
+}
+
+
+.beforetriology{
+    text-align-last: center;
+    border-style:solid;
+    position: absolute ;
+    bottom: 10%;
+    background-color: rgb(171, 236, 240);
+}
+.beforetriologyphoto{
+    position: absolute;
+    bottom: 15%;
+    display: block;
+   margin-left: 29%;
+    margin-right: 29%;
+    border-radius: 10ch;
+    border-radius: 20%;
+    border-radius: 10%;
+  border-style:double;
+  border-spacing: 50ch;
+  border-top: 20ch;
+    
+}
+#interstellar{
+    background-image: url("https://i.pinimg.com/474x/52/47/e2/5247e221354eac4c4f106966a55ad068.jpg" );
+    background-repeat: no-repeat ;
+    background-size:cover;
+    text-align:center;
+    font-family:'Times New Roman', Times, serif;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+.inter{
+    margin-left:23.5%;
+    margin-right:23.5%;
+    padding-left:0.8%;
+    padding-right:0.8%;
+    border-style:solid;
+    text-align: center;
+    background-color: rgb(91, 175, 220);
+    position:absolute;
+    margin-block: 25%;
+    text-align: center;
+    height: auto;
+}
+
+.interstellarphoto{
+    position: absolute;
+    bottom: 40%;
+    display: block;
+    margin-left: 28%;
+    margin-right: 30%;
+   margin-bottom: -4%;
+  border-radius: 10%;
+  border-style:double;
+  border-spacing: 50ch;
+  border-top: 20ch;
+  
+  border-width: 0.5ch;
+}
+
+#theperksof{
+    background-color: rgb(117, 117, 117);
+    background-image: url(https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/9/3/8/1158938_perks_of_being_a_wallflower_3.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-blend-mode:luminosity;
+    background-position: 50% 10%;
+    text-align: left;
+    font-family:'Times New Roman', Times, serif;
+    color: beige;
+    font-size: x-large;
+    
+    
+}
+
+
+.theperksofphoto{
+    position: absolute;
+    bottom: 10%;
+    display: block;
+    margin-left: 75%;
+    margin-right: 80%;
+    border-radius: 20%;
+    border-radius: 10%;
+  border-style:double;
+  border-spacing: 50ch;
+  border-top: 20ch;
+    
+}
+
+.theperk{
+   
+    border-style:solid;
+    bottom: 15.5%;
+    background-color: rgb(200, 231, 164);
+    position:absolute;
+    margin-block: 10%;
+    text-align: center;
+    color: black;
+}
